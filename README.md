@@ -1,0 +1,2 @@
+# Autonomous-Rack-Mounted-Scanning-Bot-with-SAP-Integrated-Inventory-Management
+Autonomous rack-scanning robot capable of scanning QR/Barcode, for real-time inventory capture. Designed a warehouse deployable system to minimize stock-outs, reduce manual cycle counting, and improve MRP accuracy for maintenance. Reduced manual inventory verification effort in simulated industrial maintenance scenarios.
